@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51532F21-5D9E-49C1-8457-C4E057DDA08D}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51532F21-5D9E-49C1-8457-C4E057DDA08D}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|solutionrelative:erpserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51532F21-5D9E-49C1-8457-C4E057DDA08D}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51532F21-5D9E-49C1-8457-C4E057DDA08D}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|solutionrelative:erpserver.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F468A73E-DEC2-4275-A491-B1927B882DC1}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F468A73E-DEC2-4275-A491-B1927B882DC1}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ERPServer.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.WebAPI\\Program.cs",
+              "RelativeToolTip": "ERPServer.WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:57:49.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ERPServer.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.WebAPI\\appsettings.json",
+              "RelativeToolTip": "ERPServer.WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T17:56:49.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Domain\\Abstractions\\Entity.cs",
+              "RelativeDocumentMoniker": "ERPServer.Domain\\Abstractions\\Entity.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Domain\\Abstractions\\Entity.cs",
+              "RelativeToolTip": "ERPServer.Domain\\Abstractions\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:53:02.575Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
