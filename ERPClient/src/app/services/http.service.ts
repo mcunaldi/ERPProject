@@ -1,0 +1,33 @@
+import { HttpClient, HttpErrorResponse } from '@angular/common/http';
+import { Injectable } from '@angular/core';
+import { api } from '../constants';
+import { ResultModel } from '../models/result.model';
+
+@Injectable({
+  providedIn: 'root'
+})
+export class HttpService {
+
+  constructor(
+    private http: HttpClient
+  ) { }
+
+  post<T>(apiUrl:string, body:any,callback: (res:T)=> void, errorCallback?:()=> void){
+    this.http.post<ResultModel<T>>(`${api}/${apiUrl}`, body,{
+      headers: {
+        "Authorization": "Bearer" + "token"
+      }
+    }).subscribe({
+      next: (res)=> {
+        if(res.data){          
+        callback(res.data);
+        }
+      },
+      error: (err:HttpErrorResponse)=>{
+        if(errorCallback){
+          errorCallback();
+        }
+      }
+    })
+  }
+}
