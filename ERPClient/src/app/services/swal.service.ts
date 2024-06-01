@@ -8,7 +8,7 @@ export class SwalService {
 
   constructor() { }
 
-  callToas(title: string, icon: SweetAlertIcon = "success"){
+  callToast(title: string, icon: SweetAlertIcon = "success"){
     Swal.fire({
       title: title,
       text: "",
@@ -16,7 +16,7 @@ export class SwalService {
       showConfirmButton: false,
       toast: true,
       position: 'bottom-right',
-      icon: "success"
+      icon: icon
     })
   }
 
