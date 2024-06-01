@@ -19,7 +19,7 @@ export class HttpService {
   post<T>(apiUrl:string, body:any,callback: (res:T)=> void, errorCallback?:()=> void){
     this.http.post<ResultModel<T>>(`${api}/${apiUrl}`, body,{
       headers: {
-        "Authorization": "Bearer" + this.auth.token
+        "Authorization": "Bearer " + this.auth.token
       }
     }).subscribe({
       next: (res)=> {

@@ -21,4 +21,6 @@ internal sealed class ApplicationDbContext : IdentityDbContext<AppUser, Identity
         builder.Ignore<IdentityUserRole<Guid>>();
         builder.Ignore<IdentityUserClaim<Guid>>();
     }
+
+    public DbSet<Customer> Customers { get; set; }
 }

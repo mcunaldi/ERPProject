@@ -302,7 +302,6 @@ C:\Users\W10\Desktop\GITHUB\ERPProject\ERPServer\ERPServer.WebAPI\obj\Debug\net8
 C:\Users\W10\Desktop\GITHUB\ERPProject\ERPServer\ERPServer.WebAPI\obj\Debug\net8.0\ERPServer.WebAPI.AssemblyInfoInputs.cache
 C:\Users\W10\Desktop\GITHUB\ERPProject\ERPServer\ERPServer.WebAPI\obj\Debug\net8.0\ERPServer.WebAPI.AssemblyInfo.cs
 C:\Users\W10\Desktop\GITHUB\ERPProject\ERPServer\ERPServer.WebAPI\obj\Debug\net8.0\ERPServer.WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\W10\Desktop\GITHUB\ERPProject\ERPServer\ERPServer.WebAPI\obj\Debug\net8.0\ERPServer.WebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\W10\Desktop\GITHUB\ERPProject\ERPServer\ERPServer.WebAPI\obj\Debug\net8.0\ERPServer.WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\W10\Desktop\GITHUB\ERPProject\ERPServer\ERPServer.WebAPI\obj\Debug\net8.0\ERPServer.WebAPI.sourcelink.json
 C:\Users\W10\Desktop\GITHUB\ERPProject\ERPServer\ERPServer.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
