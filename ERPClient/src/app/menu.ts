@@ -28,9 +28,16 @@ export const Menus: MenuModel[] = [
                 subMenus: []
             },
             {
-                name: "Depo",
+                name: "Depolar",
                 icon: "far fa-solid fa-warehouse",
-                url: "/depo",
+                url: "/depots",
+                isTitle: false,
+                subMenus: []
+            },
+            {
+                name: "Ürünler",
+                icon: "far fa-solid fa-boxes-stacked",
+                url: "/products",
                 isTitle: false,
                 subMenus: []
             }

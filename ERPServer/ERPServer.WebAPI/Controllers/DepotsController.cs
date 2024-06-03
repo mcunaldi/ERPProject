@@ -36,7 +36,7 @@ public sealed class DepotsController : ApiController
     }
 
     [HttpPost]
-    public async Task<IActionResult> Delete(DeleteDepotByIdCommand request, CancellationToken cancellation)
+    public async Task<IActionResult> DeleteById(DeleteDepotByIdCommand request, CancellationToken cancellation)
     {
         var response = await _mediator.Send(request, cancellation);
         return StatusCode(response.StatusCode, response);

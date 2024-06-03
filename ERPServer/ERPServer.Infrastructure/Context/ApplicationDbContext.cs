@@ -24,4 +24,5 @@ internal sealed class ApplicationDbContext : IdentityDbContext<AppUser, Identity
 
     public DbSet<Customer> Customers { get; set; }
     public DbSet<Depot> Depots { get; set; }
+    public DbSet<Product> Products { get; set; }
 }

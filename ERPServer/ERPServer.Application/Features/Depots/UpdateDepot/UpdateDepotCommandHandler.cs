@@ -20,7 +20,7 @@ internal sealed class UpdateDepotCommandHandler(
             return Result<string>.Failure("Güncellenecek kayıt bulunamadı");
         }
 
-        if(request.Name.ToLower() == depot.Name.ToLower())
+        if(request.Name.ToLower() != depot.Name.ToLower())
         {
             bool nameIsUnique = await depotRepository.AnyAsync(p => p.Name.ToLower() == request.Name.ToLower(), cancellationToken);
             if (nameIsUnique)
