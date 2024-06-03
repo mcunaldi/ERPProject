@@ -3,12 +3,92 @@
   "WorkspaceRootPath": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{51532F21-5D9E-49C1-8457-C4E057DDA08D}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.webapi\\controllers\\depotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51532F21-5D9E-49C1-8457-C4E057DDA08D}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|solutionrelative:erpserver.webapi\\controllers\\depotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\depots\\deletedepotbyid\\deletedepotbyidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\depots\\deletedepotbyid\\deletedepotbyidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\customers\\deletecustomerbyid\\deletecustomerbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\customers\\deletecustomerbyid\\deletecustomerbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\depots\\createdepot\\createdepotcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\depots\\createdepot\\createdepotcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\customers\\deletecustomerbyid\\deletecustomerbyidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\customers\\deletecustomerbyid\\deletecustomerbyidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\depots\\updatedepot\\updatedepotcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\depots\\updatedepot\\updatedepotcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\depots\\createdepot\\createdepotcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\depots\\createdepot\\createdepotcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\customers\\createcustomer\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\customers\\createcustomer\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\depots\\deletedepotbyid\\deletedepotbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\depots\\deletedepotbyid\\deletedepotbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\depots\\getalldepot\\getalldepotqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\depots\\getalldepot\\getalldepotqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51532F21-5D9E-49C1-8457-C4E057DDA08D}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51532F21-5D9E-49C1-8457-C4E057DDA08D}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|solutionrelative:erpserver.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\customers\\getallcustomer\\getallcustomerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\customers\\getallcustomer\\getallcustomerqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\depots\\getalldepot\\getalldepotquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\depots\\getalldepot\\getalldepotquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\customers\\getallcustomer\\getallcustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\customers\\getallcustomer\\getallcustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\depots\\updatedepot\\updatedepotcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\depots\\updatedepot\\updatedepotcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\depots\\updatedepot\\updatedepotcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\depots\\updatedepot\\updatedepotcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\depots\\createdepot\\createdepotcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\depots\\createdepot\\createdepotcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\customers\\updatecustomer\\updatecustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\customers\\updatecustomer\\updatecustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\customers\\createcustomer\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\customers\\createcustomer\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F468A73E-DEC2-4275-A491-B1927B882DC1}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.domain\\entities\\depot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F468A73E-DEC2-4275-A491-B1927B882DC1}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\entities\\depot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Infrastructure\\Migrations\\20240603172230_mg4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERPServer.Infrastructure\\Migrations\\20240603172230_mg4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +106,288 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteCustomerByIdCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Customers\\DeleteCustomerById\\DeleteCustomerByIdCommandHandler.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Customers\\DeleteCustomerById\\DeleteCustomerByIdCommandHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Customers\\DeleteCustomerById\\DeleteCustomerByIdCommandHandler.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Customers\\DeleteCustomerById\\DeleteCustomerByIdCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:51:31.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateDepotCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\CreateDepot\\CreateDepotCommandHandler.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Depots\\CreateDepot\\CreateDepotCommandHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\CreateDepot\\CreateDepotCommandHandler.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Depots\\CreateDepot\\CreateDepotCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:49:32.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteCustomerByIdCommand.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Customers\\DeleteCustomerById\\DeleteCustomerByIdCommand.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Customers\\DeleteCustomerById\\DeleteCustomerByIdCommand.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Customers\\DeleteCustomerById\\DeleteCustomerByIdCommand.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Customers\\DeleteCustomerById\\DeleteCustomerByIdCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:48:50.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteDepotByIdCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\DeleteDepotById\\DeleteDepotByIdCommandHandler.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Depots\\DeleteDepotById\\DeleteDepotByIdCommandHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\DeleteDepotById\\DeleteDepotByIdCommandHandler.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Depots\\DeleteDepotById\\DeleteDepotByIdCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:48:47.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCustomerCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Customers\\CreateCustomer\\CreateCustomerCommandHandler.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Customers\\CreateCustomer\\CreateCustomerCommandHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Customers\\CreateCustomer\\CreateCustomerCommandHandler.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Customers\\CreateCustomer\\CreateCustomerCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:24:38.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DepotsController.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.WebAPI\\Controllers\\DepotsController.cs",
+              "RelativeDocumentMoniker": "ERPServer.WebAPI\\Controllers\\DepotsController.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.WebAPI\\Controllers\\DepotsController.cs",
+              "RelativeToolTip": "ERPServer.WebAPI\\Controllers\\DepotsController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:23:19.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteDepotByIdCommand.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\DeleteDepotById\\DeleteDepotByIdCommand.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Depots\\DeleteDepotById\\DeleteDepotByIdCommand.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\DeleteDepotById\\DeleteDepotByIdCommand.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Depots\\DeleteDepotById\\DeleteDepotByIdCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:47:50.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateDepotCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\UpdateDepot\\UpdateDepotCommandHandler.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Depots\\UpdateDepot\\UpdateDepotCommandHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\UpdateDepot\\UpdateDepotCommandHandler.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Depots\\UpdateDepot\\UpdateDepotCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:40:43.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllDepotQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\GetAllDepot\\GetAllDepotQueryHandler.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Depots\\GetAllDepot\\GetAllDepotQueryHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\GetAllDepot\\GetAllDepotQueryHandler.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Depots\\GetAllDepot\\GetAllDepotQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:42:01.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateDepotCommand.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\CreateDepot\\CreateDepotCommand.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Depots\\CreateDepot\\CreateDepotCommand.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\CreateDepot\\CreateDepotCommand.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Depots\\CreateDepot\\CreateDepotCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:25:33.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllCustomerQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Customers\\GetAllCustomer\\GetAllCustomerQueryHandler.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Customers\\GetAllCustomer\\GetAllCustomerQueryHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Customers\\GetAllCustomer\\GetAllCustomerQueryHandler.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Customers\\GetAllCustomer\\GetAllCustomerQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:43:47.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetAllCustomerQuery.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Customers\\GetAllCustomer\\GetAllCustomerQuery.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Customers\\GetAllCustomer\\GetAllCustomerQuery.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Customers\\GetAllCustomer\\GetAllCustomerQuery.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Customers\\GetAllCustomer\\GetAllCustomerQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:41:39.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAllDepotQuery.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\GetAllDepot\\GetAllDepotQuery.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Depots\\GetAllDepot\\GetAllDepotQuery.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\GetAllDepot\\GetAllDepotQuery.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Depots\\GetAllDepot\\GetAllDepotQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:41:28.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.WebAPI\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "ERPServer.WebAPI\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.WebAPI\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "ERPServer.WebAPI\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T19:53:08.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Mapping\\MappingProfile.cs",
               "RelativeDocumentMoniker": "ERPServer.Application\\Mapping\\MappingProfile.cs",
               "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Mapping\\MappingProfile.cs",
               "RelativeToolTip": "ERPServer.Application\\Mapping\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T19:57:30.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.WebAPI\\Controllers\\CustomersController.cs",
-              "RelativeDocumentMoniker": "ERPServer.WebAPI\\Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.WebAPI\\Controllers\\CustomersController.cs",
-              "RelativeToolTip": "ERPServer.WebAPI\\Controllers\\CustomersController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABQAAAA5AAAA",
+              "DocumentIndex": 15,
+              "Title": "UpdateDepotCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\UpdateDepot\\UpdateDepotCommandValidator.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Depots\\UpdateDepot\\UpdateDepotCommandValidator.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\UpdateDepot\\UpdateDepotCommandValidator.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Depots\\UpdateDepot\\UpdateDepotCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T19:53:08.081Z",
+              "WhenOpened": "2024-06-03T17:40:12.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateDepotCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\CreateDepot\\CreateDepotCommandValidator.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Depots\\CreateDepot\\CreateDepotCommandValidator.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\CreateDepot\\CreateDepotCommandValidator.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Depots\\CreateDepot\\CreateDepotCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:40:37.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateCustomerCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Customers\\UpdateCustomer\\UpdateCustomerCommandHandler.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Customers\\UpdateCustomer\\UpdateCustomerCommandHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Customers\\UpdateCustomer\\UpdateCustomerCommandHandler.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Customers\\UpdateCustomer\\UpdateCustomerCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:34:51.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateDepotCommand.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\UpdateDepot\\UpdateDepotCommand.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Depots\\UpdateDepot\\UpdateDepotCommand.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\UpdateDepot\\UpdateDepotCommand.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Depots\\UpdateDepot\\UpdateDepotCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:30:38.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateCustomerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Customers\\CreateCustomer\\CreateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Customers\\CreateCustomer\\CreateCustomerCommand.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Customers\\CreateCustomer\\CreateCustomerCommand.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Customers\\CreateCustomer\\CreateCustomerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:24:37.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240603172230_mg4.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Infrastructure\\Migrations\\20240603172230_mg4.cs",
+              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Migrations\\20240603172230_mg4.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Infrastructure\\Migrations\\20240603172230_mg4.cs",
+              "RelativeToolTip": "ERPServer.Infrastructure\\Migrations\\20240603172230_mg4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:22:31.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Depot.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Domain\\Entities\\Depot.cs",
+              "RelativeDocumentMoniker": "ERPServer.Domain\\Entities\\Depot.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Domain\\Entities\\Depot.cs",
+              "RelativeToolTip": "ERPServer.Domain\\Entities\\Depot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:22:06.399Z",
               "EditorCaption": ""
             }
           ]
