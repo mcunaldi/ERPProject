@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51532F21-5D9E-49C1-8457-C4E057DDA08D}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51532F21-5D9E-49C1-8457-C4E057DDA08D}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|solutionrelative:erpserver.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\recipes\\getallrecipe\\getallrecipequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\recipes\\getallrecipe\\getallrecipequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\products\\createproduct\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\products\\createproduct\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F468A73E-DEC2-4275-A491-B1927B882DC1}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.domain\\entities\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F468A73E-DEC2-4275-A491-B1927B882DC1}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\entities\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\products\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\products\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F468A73E-DEC2-4275-A491-B1927B882DC1}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.domain\\enums\\producttypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F468A73E-DEC2-4275-A491-B1927B882DC1}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\enums\\producttypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBEB2745-5A49-4D4E-A734-0A73CC7C03DD}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.infrastructure\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBEB2745-5A49-4D4E-A734-0A73CC7C03DD}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|solutionrelative:erpserver.infrastructure\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F468A73E-DEC2-4275-A491-B1927B882DC1}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.domain\\entities\\recipedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F468A73E-DEC2-4275-A491-B1927B882DC1}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\entities\\recipedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,92 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.WebAPI\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "ERPServer.WebAPI\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.WebAPI\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "ERPServer.WebAPI\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAA5AAAA",
+              "Title": "GetAllRecipeQuery.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Recipes\\GetAllRecipe\\GetAllRecipeQuery.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Recipes\\GetAllRecipe\\GetAllRecipeQuery.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Recipes\\GetAllRecipe\\GetAllRecipeQuery.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Recipes\\GetAllRecipe\\GetAllRecipeQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T19:25:36.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateProductCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Products\\CreateProduct\\CreateProductCommandValidator.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Products\\CreateProduct\\CreateProductCommandValidator.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Products\\CreateProduct\\CreateProductCommandValidator.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\Products\\CreateProduct\\CreateProductCommandValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T19:05:23.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Mapping\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Mapping\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "ERPServer.Application\\Mapping\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T19:04:24.213Z",
+              "WhenOpened": "2024-06-04T16:49:38.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreateProductCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T19:04:14.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductTypeEnum.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Domain\\Enums\\ProductTypeEnum.cs",
-              "RelativeDocumentMoniker": "ERPServer.Domain\\Enums\\ProductTypeEnum.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Domain\\Enums\\ProductTypeEnum.cs",
-              "RelativeToolTip": "ERPServer.Domain\\Enums\\ProductTypeEnum.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T19:03:26.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Infrastructure\\Configurations\\ProductConfiguration.cs",
-              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Configurations\\ProductConfiguration.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Infrastructure\\Configurations\\ProductConfiguration.cs",
-              "RelativeToolTip": "ERPServer.Infrastructure\\Configurations\\ProductConfiguration.cs",
+              "Title": "RecipeDetail.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Domain\\Entities\\RecipeDetail.cs",
+              "RelativeDocumentMoniker": "ERPServer.Domain\\Entities\\RecipeDetail.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Domain\\Entities\\RecipeDetail.cs",
+              "RelativeToolTip": "ERPServer.Domain\\Entities\\RecipeDetail.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T19:03:14.885Z",
+              "WhenOpened": "2024-06-04T16:48:16.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Domain\\Entities\\Recipe.cs",
+              "RelativeDocumentMoniker": "ERPServer.Domain\\Entities\\Recipe.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Domain\\Entities\\Recipe.cs",
+              "RelativeToolTip": "ERPServer.Domain\\Entities\\Recipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:41:17.52Z",
               "EditorCaption": ""
             }
           ]
