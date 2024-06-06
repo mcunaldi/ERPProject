@@ -25,17 +25,17 @@
                         </tr>
                     </thead>
                     <tbody>
-                        @for(product of products | product: search; track product){
+                        @for(data of products | product: search; track data){
                         <tr>
                             <td>{{$index + 1}}</td>
-                            <td>{{product.name}}</td>
-                            <td>{{product.type.name}}</td>
+                            <td>{{data.name}}</td>
+                            <td>{{data.type.name}}</td>
                             <td>
-                                <button data-toggle="modal" data-target="#updateModal" (click)="get(product)"
+                                <button data-toggle="modal" data-target="#updateModal" (click)="get(data)"
                                     class="btn btn-outline-primary btn-sm me-1">
                                     <i class="fa-solid fa-edit"></i>
                                 </button>
-                                <button (click)="deleteById(product)" class="btn btn-outline-danger btn-sm">
+                                <button (click)="deleteById(data)" class="btn btn-outline-danger btn-sm">
                                     <i class="fa-solid fa-trash"></i>
                                 </button>
                             </td>

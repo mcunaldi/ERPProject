@@ -8,9 +8,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ERPServer.WebAPI.Controllers;
 
-public sealed class RecipeDetailDetailsController : ApiController
+public sealed class RecipeDetailsController : ApiController
 {
-    public RecipeDetailDetailsController(IMediator mediator) : base(mediator)
+    public RecipeDetailsController(IMediator mediator) : base(mediator)
     {
     }
 

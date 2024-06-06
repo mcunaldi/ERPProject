@@ -7,11 +7,12 @@ import { ProductModel } from '../../models/product.model';
 import { SharedModule } from '../../modules/shared.module';
 import { RecipePipe } from '../../pipes/recipe.pipe';
 import { RecipeDetailModel } from '../../models/recipeDetail.model';
+import { RouterLink } from '@angular/router';
 
 @Component({
   selector: 'app-recipes',
   standalone: true,
-  imports: [SharedModule, RecipePipe],
+  imports: [SharedModule, RecipePipe, RouterLink],
   templateUrl: './recipes.component.html',
   styleUrl: './recipes.component.css'
 })

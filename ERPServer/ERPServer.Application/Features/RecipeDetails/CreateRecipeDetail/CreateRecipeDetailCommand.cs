@@ -18,8 +18,11 @@ internal sealed class CreateRecipeDetailCommandHandler(
 {
     public async Task<Result<string>> Handle(CreateRecipeDetailCommand request, CancellationToken cancellationToken)
     {
-        RecipeDetail recipeDetail = await recipeDetailRepository
-            .GetByExpressionWithTrackingAsync(p=> p.RecipeId == request.RecipeId && p.ProductId == request.ProductId);
+        RecipeDetail? recipeDetail =
+            await recipeDetailRepository
+            .GetByExpressionWithTrackingAsync(p =>
+                p.RecipeId == request.RecipeId &&
+                p.ProductId == request.ProductId, cancellationToken);
 
         if (recipeDetail is not null)
         {
