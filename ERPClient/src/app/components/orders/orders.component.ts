@@ -22,8 +22,10 @@ export class OrdersComponent {
   orders: OrderModel[] = [];
   customers: CustomerModel[] = [];
   products: ProductModel[] = []
-  detail: OrderDetailModel = new OrderDetailModel();
+  createDetail: OrderDetailModel = new OrderDetailModel();
+  updateDetail: OrderDetailModel = new OrderDetailModel();
   search: string = "";
+  buttonIsActive: boolean = false;
 
   @ViewChild("createModalCloseBtn") createModalCloseBtn: ElementRef<HTMLButtonElement> | undefined;
   @ViewChild("updateModalCloseBtn") updateModalCloseBtn: ElementRef<HTMLButtonElement> | undefined;
@@ -64,17 +66,34 @@ export class OrdersComponent {
   }
 
   addDetail() {
-    const product = this.products.find(p => p.id == this.detail.productId);
+    const product = this.products.find(p => p.id == this.createDetail.productId);
     if (product) {
-      this.detail.product = product;
+      this.createDetail.product = product;
     }
-    this.createModel.details.push(this.detail);
-    this.detail = new OrderDetailModel();
+    this.createModel.details.push(this.createDetail);
+    this.createDetail = new OrderDetailModel();    
+    this.buttonIsActive = true;
   }
+
+  addUpdateDetail() {
+    const product = this.products.find(p => p.id == this.updateDetail.productId);
+    if (product) {
+      this.updateDetail.product = product;
+    }
+    this.updateModel.details.push(this.updateDetail);
+    this.updateDetail = new OrderDetailModel();    
+    this.buttonIsActive = true;
+  }
+
 
   removeDetail(index: number) {
     this.createModel.details.splice(index, 1);
   }
+
+  removeUpdateDetail(index: number) {
+    this.updateModel.details.splice(index, 1);
+  }
+
 
   create(form: NgForm) {
     if (form.valid) {
@@ -87,7 +106,8 @@ export class OrdersComponent {
         this.createModel.deliveryDate = this.date.transform(new Date(), "yyyy-MM-dd") ?? "";
 
         this.createModalCloseBtn?.nativeElement.click();
-        this.getAll();
+        this.getAll();    
+        this.buttonIsActive = false;
       });
     }
   }
@@ -111,7 +131,7 @@ export class OrdersComponent {
         this.swal.callToast(res, "info");
         this.updateModalCloseBtn?.nativeElement.click();
         this.getAll();
-      });
+      }); 
     }
   }
 }

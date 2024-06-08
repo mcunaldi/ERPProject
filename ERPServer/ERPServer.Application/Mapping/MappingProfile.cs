@@ -48,13 +48,8 @@ public sealed class MappingProfile : Profile
                     }).ToList()));
 
         CreateMap<UpdateOrderCommand, Order>()
-            .ForMember(member => member.Details,
-                    options =>
-                    options.MapFrom(p => p.Details.Select(s => new OrderDetail
-                    {
-                        Price = s.Price,
-                        ProductId = s.ProductId,
-                        Quantity = s.Quantity
-                    }).ToList()));
+            .ForMember(member=> 
+                                 member.Details, options => 
+                                                            options.Ignore());
     }
 }
