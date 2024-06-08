@@ -10,11 +10,17 @@ import { ProductsComponent } from './components/products/products.component';
 import { RecipesComponent } from './components/recipes/recipes.component';
 import { RecipeDetailsComponent } from './components/recipe-details/recipe-details.component';
 import { OrdersComponent } from './components/orders/orders.component';
+import { RequirementsPlannigComponent } from './components/requirements-plannig/requirements-plannig.component';
 
 export const routes: Routes = [
     {
         path: "login",
         component: LoginComponent
+    },
+    {
+        path: "requirements-plannig/:orderId",
+        component: RequirementsPlannigComponent,
+        canActivate: [()=> inject(AuthService).isAuthenticated()]
     },
     {
         path: "",

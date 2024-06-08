@@ -1,6 +1,7 @@
 ﻿using ERPServer.Application.Features.Orders.CreateOrder;
 using ERPServer.Application.Features.Orders.DeleteOrder;
 using ERPServer.Application.Features.Orders.GetAllOrder;
+using ERPServer.Application.Features.Orders.ReqirementsPlanningByOrderId;
 using ERPServer.Application.Features.Orders.UpdateOrder;
 using ERPServer.WebAPI.Abstractions;
 using MediatR;
@@ -42,5 +43,13 @@ public sealed class OrdersController : ApiController
         var response = await _mediator.Send(request, cancellationToken);
         return StatusCode(response.StatusCode, response);
     }
+
+    [HttpPost]
+    public async Task<IActionResult> ReqirementsPlanningByOrderId(RequirementsPlanningByOrderIdCommand request, CancellationToken cancellationToken)
+    {
+        var response = await _mediator.Send(request, cancellationToken);
+        return StatusCode(response.StatusCode, response);
+    }
+
 
 }

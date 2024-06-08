@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\orders\\updateorder\\updateordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\orders\\updateorder\\updateordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\orders\\reqirementsplanningbyorderid\\requirementsplanningbyorderidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\orders\\reqirementsplanningbyorderid\\requirementsplanningbyorderidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51532F21-5D9E-49C1-8457-C4E057DDA08D}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51532F21-5D9E-49C1-8457-C4E057DDA08D}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|solutionrelative:erpserver.webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\orders\\reqirementsplanningbyorderid\\requirementsplanningbyorderidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\orders\\reqirementsplanningbyorderid\\requirementsplanningbyorderidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Mapping\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Mapping\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "ERPServer.Application\\Mapping\\MappingProfile.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAgwC4AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T10:38:43.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UpdateOrderCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Orders\\UpdateOrder\\UpdateOrderCommandHandler.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Orders\\UpdateOrder\\UpdateOrderCommandHandler.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Orders\\UpdateOrder\\UpdateOrderCommandHandler.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\Orders\\UpdateOrder\\UpdateOrderCommandHandler.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCoAAAAmAAAA",
+              "Title": "RequirementsPlanningByOrderIdCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Orders\\ReqirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommandHandler.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Orders\\ReqirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommandHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Orders\\ReqirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommandHandler.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Orders\\ReqirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T10:36:20.191Z",
+              "WhenOpened": "2024-06-08T13:19:15.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.WebAPI\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "ERPServer.WebAPI\\Controllers\\OrdersController.cs",
               "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.WebAPI\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "ERPServer.WebAPI\\Controllers\\OrdersController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowCUAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwDMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T10:29:09.687Z",
+              "WhenOpened": "2024-06-08T13:10:16.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequirementsPlanningByOrderIdCommand.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Orders\\ReqirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommand.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Orders\\ReqirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommand.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Orders\\ReqirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommand.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Orders\\ReqirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:06:48.494Z",
               "EditorCaption": ""
             }
           ]

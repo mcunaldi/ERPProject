@@ -29,4 +29,5 @@ internal sealed class ApplicationDbContext : IdentityDbContext<AppUser, Identity
     public DbSet<RecipeDetail> RecipeDetails { get; set; }
     public DbSet<Order> Orders { get; set; }
     public DbSet<OrderDetail> OrderDetails { get; set; }
+    public DbSet<StockMovement> StockMovements { get; set; }
 }
