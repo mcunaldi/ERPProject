@@ -11,7 +11,6 @@ namespace ERPServer.Application.Features.Invoices.UpdateInvoice;
 public sealed record UpdateInvoiceCommand(
     Guid Id,
     Guid CustomerId,
-    int Type,
     DateOnly Date,
     string InvoiceNumber,
     List<InvoiceDetailDto> Details) : IRequest<Result<string>>;
@@ -46,8 +45,8 @@ internal sealed class UpdateInvoiceCommandHandler(
             StockMovement movement = new()
             {
                 InvoiceId = invoice.Id,
-                NumberOfEntries = request.Type == 1 ? item.Quantity : 0,
-                NumberOfOutputs = request.Type == 2 ? item.Quantity : 0,
+                NumberOfEntries = invoice.Type.Value == 1 ? item.Quantity : 0,
+                NumberOfOutputs = invoice.Type.Value == 2 ? item.Quantity : 0,
                 DepotId = item.DepotId,
                 Price = item.Price,
                 ProductId = item.ProductId

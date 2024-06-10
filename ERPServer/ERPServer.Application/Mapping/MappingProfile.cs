@@ -4,6 +4,7 @@ using ERPServer.Application.Features.Customers.UpdateCustomer;
 using ERPServer.Application.Features.Depots.CreateDepot;
 using ERPServer.Application.Features.Depots.UpdateDepot;
 using ERPServer.Application.Features.Invoices.CreateInvoice;
+using ERPServer.Application.Features.Invoices.UpdateInvoice;
 using ERPServer.Application.Features.Orders.CreateOrder;
 using ERPServer.Application.Features.Orders.UpdateOrder;
 using ERPServer.Application.Features.Products.CreateProduct;
@@ -56,7 +57,7 @@ public sealed class MappingProfile : Profile
         CreateMap<CreateInvoiceCommand, Invoice>()
 
             .ForMember(member => member.Type, options=>
-                options.MapFrom(p => InvoiceTypeEnum.FromValue(p.Type)))
+                options.MapFrom(p => InvoiceTypeEnum.FromValue(p.TypeValue)))
 
             .ForMember(member => member.Details,
                     options =>
@@ -64,7 +65,13 @@ public sealed class MappingProfile : Profile
                     {
                         Price = s.Price,
                         ProductId = s.ProductId,
+                        Depot = s.DepotId,
                         Quantity = s.Quantity
                     }).ToList()));
+
+        CreateMap<UpdateInvoiceCommand, Invoice>()
+            .ForMember(member =>
+                         member.Details,
+                         options => options.Ignore());
     }
 }

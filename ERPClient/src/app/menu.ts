@@ -1,9 +1,9 @@
-export class MenuModel{
+export class MenuModel {
     name: string = "";
     icon: string = "";
     url: string = "";
     isTitle: boolean = false;
-    subMenus: MenuModel[] = []; 
+    subMenus: MenuModel[] = [];
 }
 
 export const Menus: MenuModel[] = [
@@ -18,7 +18,7 @@ export const Menus: MenuModel[] = [
         name: "Ana Grup",
         icon: "far fa-solid fa-trowel-bricks",
         url: "",
-        isTitle : false,
+        isTitle: false,
         subMenus: [
             {
                 name: "Müşteriler",
@@ -56,5 +56,27 @@ export const Menus: MenuModel[] = [
         url: "/orders",
         isTitle: false,
         subMenus: []
+    },
+    {
+        name: "Faturalar",
+        icon: "far fa-solid fa-file-invoice",
+        url: "/",
+        isTitle: false,
+        subMenus: [
+            {
+                name: "Alış Faturaları",
+                icon: "far fa-solid fa-file-invoice",
+                url: "/invoices/purchase",
+                isTitle: false,
+                subMenus: []
+            },
+            {
+                name: "Satış Faturaları",
+                icon: "far fa-solid fa-file-invoice",
+                url: "/invoices/selling",
+                isTitle: false,
+                subMenus: []
+            }
+        ]
     }
 ]

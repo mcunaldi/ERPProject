@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\invoices\\createinvoice\\createinvoicecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\invoices\\createinvoice\\createinvoicecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\invoices\\createinvoice\\createinvoicecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\invoices\\createinvoice\\createinvoicecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\invoices\\updateinvoice\\updateinvoicecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\invoices\\updateinvoice\\updateinvoicecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{51532F21-5D9E-49C1-8457-C4E057DDA08D}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.webapi\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51532F21-5D9E-49C1-8457-C4E057DDA08D}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|solutionrelative:erpserver.webapi\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,12 +39,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CreateInvoiceCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommandHandler.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommandHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommandHandler.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:40:39.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "ERPServer.Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwEMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:37:34.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateInvoiceCommand.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommand.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommand.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommand.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:37:21.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateInvoiceCommand.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:37:10.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "InvoicesController.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.WebAPI\\Controllers\\InvoicesController.cs",
               "RelativeDocumentMoniker": "ERPServer.WebAPI\\Controllers\\InvoicesController.cs",
               "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.WebAPI\\Controllers\\InvoicesController.cs",
               "RelativeToolTip": "ERPServer.WebAPI\\Controllers\\InvoicesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T19:50:29.506Z",
               "EditorCaption": ""

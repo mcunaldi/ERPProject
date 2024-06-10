@@ -14,7 +14,7 @@ export class OrderPipe implements PipeTransform {
     }
 
     return value.filter(p =>
-      p.orderNumber.toLocaleString().includes(search) ||
+      p.orderNumber.toString().includes(search) ||
       p.orderNumberYear.toLocaleString().includes(search) ||
       p.customer.name.toLocaleLowerCase().includes(search.toLocaleLowerCase()) ||
       p.date.includes(search) ||
