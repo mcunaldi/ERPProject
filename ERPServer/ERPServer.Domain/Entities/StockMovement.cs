@@ -9,4 +9,6 @@ public sealed class StockMovement : Entity
     public decimal NumberOfEntries { get; set; }
     public decimal NumberOfOutputs { get; set; }
     public decimal Price { get; set; }
+    public Guid? InvoiceId { get; set; }
+    public Invoice? Invoice { get; set; }
 }

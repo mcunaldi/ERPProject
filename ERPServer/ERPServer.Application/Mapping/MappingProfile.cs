@@ -3,6 +3,7 @@ using ERPServer.Application.Features.Customers.CreateCustomer;
 using ERPServer.Application.Features.Customers.UpdateCustomer;
 using ERPServer.Application.Features.Depots.CreateDepot;
 using ERPServer.Application.Features.Depots.UpdateDepot;
+using ERPServer.Application.Features.Invoices.CreateInvoice;
 using ERPServer.Application.Features.Orders.CreateOrder;
 using ERPServer.Application.Features.Orders.UpdateOrder;
 using ERPServer.Application.Features.Products.CreateProduct;
@@ -49,7 +50,21 @@ public sealed class MappingProfile : Profile
 
         CreateMap<UpdateOrderCommand, Order>()
             .ForMember(member=> 
-                                 member.Details, options => 
-                                                            options.Ignore());
+                                 member.Details, 
+                                 options =>  options.Ignore());
+
+        CreateMap<CreateInvoiceCommand, Invoice>()
+
+            .ForMember(member => member.Type, options=>
+                options.MapFrom(p => InvoiceTypeEnum.FromValue(p.Type)))
+
+            .ForMember(member => member.Details,
+                    options =>
+                    options.MapFrom(p => p.Details.Select(s => new InvoiceDetail
+                    {
+                        Price = s.Price,
+                        ProductId = s.ProductId,
+                        Quantity = s.Quantity
+                    }).ToList()));
     }
 }
