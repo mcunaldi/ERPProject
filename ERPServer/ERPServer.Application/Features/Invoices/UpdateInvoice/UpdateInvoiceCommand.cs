@@ -18,13 +18,18 @@ public sealed record UpdateInvoiceCommand(
 
 internal sealed class UpdateInvoiceCommandHandler(
     IInvoiceRepository invoiceRepository,
+    IInvoiceDetailRepository invoiceDetailRepository,
     IStockMovementRepository stockMovementRepository,
     IUnitOfWork unitOfWork,
     IMapper mapper) : IRequestHandler<UpdateInvoiceCommand, Result<string>>
 {
     public async Task<Result<string>> Handle(UpdateInvoiceCommand request, CancellationToken cancellationToken)
     {
-        Invoice invoice = await invoiceRepository.GetByExpressionWithTrackingAsync(p => p.Id == request.Id, cancellationToken);
+        Invoice? invoice = await invoiceRepository
+            .WhereWithTracking(p => p.Id == request.Id)
+            .Include(p=> p.Details)
+            .FirstOrDefaultAsync(cancellationToken);
+
         if (invoice is null)
         {
             return Result<string>.Failure("Fatura bulunamadı");
@@ -36,6 +41,19 @@ internal sealed class UpdateInvoiceCommandHandler(
             .ToListAsync(cancellationToken);
 
         stockMovementRepository.DeleteRange(movements);
+
+        invoiceDetailRepository.DeleteRange(invoice.Details);
+
+        invoice.Details = request.Details.Select(s => new InvoiceDetail
+        {
+            InvoiceId = invoice.Id,
+            DepotId = s.DepotId,
+            ProductId = s.ProductId,
+            Price = s.Price,
+            Quantity = s.Quantity,
+        }).ToList();
+
+        await invoiceDetailRepository.AddRangeAsync(invoice.Details, cancellationToken);
 
         mapper.Map(request, invoice);
 

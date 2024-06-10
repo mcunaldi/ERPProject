@@ -120,6 +120,7 @@ export class InvoicesComponent {
 
   removeUpdateDetail(index: number) {
     this.updateModel.details.splice(index, 1);
+    this.buttonIsActive = true;
   }
 
 

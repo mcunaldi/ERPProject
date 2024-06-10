@@ -65,7 +65,7 @@ public sealed class MappingProfile : Profile
                     {
                         Price = s.Price,
                         ProductId = s.ProductId,
-                        Depot = s.DepotId,
+                        DepotId = s.DepotId,
                         Quantity = s.Quantity
                     }).ToList()));
 
