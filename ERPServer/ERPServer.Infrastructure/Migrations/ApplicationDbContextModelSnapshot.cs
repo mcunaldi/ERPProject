@@ -288,6 +288,28 @@ namespace ERPServer.Infrastructure.Migrations
                     b.ToTable("Products");
                 });
 
+            modelBuilder.Entity("ERPServer.Domain.Entities.Production", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<Guid>("ProductId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<decimal>("Quantity")
+                        .HasColumnType("decimal(7,2)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ProductId");
+
+                    b.ToTable("Productions");
+                });
+
             modelBuilder.Entity("ERPServer.Domain.Entities.Recipe", b =>
                 {
                     b.Property<Guid>("Id")
@@ -352,11 +374,16 @@ namespace ERPServer.Infrastructure.Migrations
                     b.Property<Guid>("ProductId")
                         .HasColumnType("uniqueidentifier");
 
+                    b.Property<Guid?>("ProductionId")
+                        .HasColumnType("uniqueidentifier");
+
                     b.HasKey("Id");
 
                     b.HasIndex("InvoiceId");
 
                     b.HasIndex("ProductId");
+
+                    b.HasIndex("ProductionId");
 
                     b.ToTable("StockMovements");
                 });
@@ -445,6 +472,17 @@ namespace ERPServer.Infrastructure.Migrations
                     b.Navigation("Product");
                 });
 
+            modelBuilder.Entity("ERPServer.Domain.Entities.Production", b =>
+                {
+                    b.HasOne("ERPServer.Domain.Entities.Product", "Product")
+                        .WithMany()
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Product");
+                });
+
             modelBuilder.Entity("ERPServer.Domain.Entities.Recipe", b =>
                 {
                     b.HasOne("ERPServer.Domain.Entities.Product", "Product")
@@ -485,9 +523,15 @@ namespace ERPServer.Infrastructure.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("ERPServer.Domain.Entities.Production", "Production")
+                        .WithMany()
+                        .HasForeignKey("ProductionId");
+
                     b.Navigation("Invoice");
 
                     b.Navigation("Product");
+
+                    b.Navigation("Production");
                 });
 
             modelBuilder.Entity("ERPServer.Domain.Entities.Invoice", b =>
