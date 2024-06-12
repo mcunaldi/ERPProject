@@ -23,13 +23,6 @@ internal sealed class CreateOrderCommandHandler(
         int lastOrderNumber = 0;
         if (lastOrder is not null) lastOrderNumber = lastOrder.OrderNumber;
 
-        List<OrderDetail> details = request.Details.Select(s => new OrderDetail
-        {
-            Price = s.Price,
-            ProductId = s.ProductId,
-            Quantity = s.Quantity
-        }).ToList();
-
         Order order = mapper.Map<Order>(request);
 
         order.OrderNumber = lastOrderNumber + 1;

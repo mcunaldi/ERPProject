@@ -297,6 +297,9 @@ namespace ERPServer.Infrastructure.Migrations
                     b.Property<DateTime>("CreatedAt")
                         .HasColumnType("datetime2");
 
+                    b.Property<Guid?>("DepotId")
+                        .HasColumnType("uniqueidentifier");
+
                     b.Property<Guid>("ProductId")
                         .HasColumnType("uniqueidentifier");
 
@@ -304,6 +307,8 @@ namespace ERPServer.Infrastructure.Migrations
                         .HasColumnType("decimal(7,2)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("DepotId");
 
                     b.HasIndex("ProductId");
 
@@ -474,11 +479,17 @@ namespace ERPServer.Infrastructure.Migrations
 
             modelBuilder.Entity("ERPServer.Domain.Entities.Production", b =>
                 {
+                    b.HasOne("ERPServer.Domain.Entities.Depot", "Depot")
+                        .WithMany()
+                        .HasForeignKey("DepotId");
+
                     b.HasOne("ERPServer.Domain.Entities.Product", "Product")
                         .WithMany()
                         .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.Navigation("Depot");
 
                     b.Navigation("Product");
                 });
