@@ -182,8 +182,7 @@
               "RelativeToolTip": "ERPServer.Infrastructure\\Configurations\\ProductConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T18:13:05.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T18:13:05.959Z"
             },
             {
               "$type": "Document",
@@ -195,8 +194,7 @@
               "RelativeToolTip": "ERPServer.WebAPI\\Controllers\\ProductionsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T18:12:58.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T18:12:58.375Z"
             },
             {
               "$type": "Document",
@@ -208,8 +206,7 @@
               "RelativeToolTip": "ERPServer.Domain\\Entities\\Depot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T18:12:36.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T18:12:36.148Z"
             },
             {
               "$type": "Document",
@@ -221,8 +218,7 @@
               "RelativeToolTip": "ERPServer.WebAPI\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T18:11:17.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T18:11:17.345Z"
             },
             {
               "$type": "Document",
@@ -232,7 +228,7 @@
               "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Products\\DeleteProductById\\DeleteProductByIdCommandHandler.cs",
               "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Products\\DeleteProductById\\DeleteProductByIdCommandHandler.cs",
               "RelativeToolTip": "ERPServer.Application\\Features\\Products\\DeleteProductById\\DeleteProductByIdCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T18:09:07.23Z",
               "EditorCaption": ""
@@ -247,8 +243,7 @@
               "RelativeToolTip": "ERPServer.Application\\Features\\Depots\\CreateDepot\\CreateDepotCommandHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T18:07:25.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T18:07:25.879Z"
             },
             {
               "$type": "Document",
@@ -260,8 +255,7 @@
               "RelativeToolTip": "ERPServer.Domain\\Entities\\Production.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T15:49:50.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T15:49:50.38Z"
             },
             {
               "$type": "Document",
@@ -273,8 +267,7 @@
               "RelativeToolTip": "ERPServer.Domain\\Entities\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T17:59:33.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T17:59:33.737Z"
             },
             {
               "$type": "Document",
@@ -286,8 +279,7 @@
               "RelativeToolTip": "ERPServer.Application\\Features\\Orders\\CreateOrder\\CreateOrderCommandHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T18:07:51.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T18:07:51.7Z"
             },
             {
               "$type": "Document",
@@ -299,8 +291,7 @@
               "RelativeToolTip": "ERPServer.Application\\Features\\Depots\\CreateDepot\\CreateDepotCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T18:07:23.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T18:07:23.223Z"
             },
             {
               "$type": "Document",
@@ -312,8 +303,7 @@
               "RelativeToolTip": "ERPServer.Application\\Features\\Orders\\ReqirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommandHandler.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T18:07:58.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T18:07:58.845Z"
             },
             {
               "$type": "Document",
@@ -325,8 +315,7 @@
               "RelativeToolTip": "ERPServer.Application\\Features\\Products\\GetAllProduct\\GetAllProductQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T17:58:53.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T17:58:53.702Z"
             },
             {
               "$type": "Document",
@@ -338,8 +327,7 @@
               "RelativeToolTip": "ERPServer.Application\\Features\\Products\\GetAllProduct\\GetAllProductQueryHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T17:58:49.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T17:58:49.782Z"
             },
             {
               "$type": "Document",
@@ -351,8 +339,7 @@
               "RelativeToolTip": "ERPServer.Domain\\Entities\\AppUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T17:41:49.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T17:41:49.042Z"
             },
             {
               "$type": "Document",
@@ -376,8 +363,7 @@
               "RelativeToolTip": "ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommandHandler.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAADwvzQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T21:04:01.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T21:04:01.069Z"
             },
             {
               "$type": "Document",
