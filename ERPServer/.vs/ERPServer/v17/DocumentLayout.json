@@ -3,6 +3,62 @@
   "WorkspaceRootPath": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\products\\deleteproductbyid\\deleteproductbyidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\products\\deleteproductbyid\\deleteproductbyidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51532F21-5D9E-49C1-8457-C4E057DDA08D}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51532F21-5D9E-49C1-8457-C4E057DDA08D}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|solutionrelative:erpserver.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F468A73E-DEC2-4275-A491-B1927B882DC1}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F468A73E-DEC2-4275-A491-B1927B882DC1}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F468A73E-DEC2-4275-A491-B1927B882DC1}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.domain\\entities\\production.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F468A73E-DEC2-4275-A491-B1927B882DC1}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\entities\\production.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEB2745-5A49-4D4E-A734-0A73CC7C03DD}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.infrastructure\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEB2745-5A49-4D4E-A734-0A73CC7C03DD}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|solutionrelative:erpserver.infrastructure\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51532F21-5D9E-49C1-8457-C4E057DDA08D}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.webapi\\controllers\\productionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51532F21-5D9E-49C1-8457-C4E057DDA08D}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|solutionrelative:erpserver.webapi\\controllers\\productionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F468A73E-DEC2-4275-A491-B1927B882DC1}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.domain\\entities\\depot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F468A73E-DEC2-4275-A491-B1927B882DC1}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\entities\\depot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\orders\\reqirementsplanningbyorderid\\requirementsplanningbyorderidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\orders\\reqirementsplanningbyorderid\\requirementsplanningbyorderidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\orders\\createorder\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\orders\\createorder\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\invoices\\createinvoice\\createinvoicecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\invoices\\createinvoice\\createinvoicecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\depots\\createdepot\\createdepotcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\depots\\createdepot\\createdepotcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\depots\\createdepot\\createdepotcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\depots\\createdepot\\createdepotcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\products\\getallproduct\\getallproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\products\\getallproduct\\getallproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\products\\getallproduct\\getallproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\products\\getallproduct\\getallproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F468A73E-DEC2-4275-A491-B1927B882DC1}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F468A73E-DEC2-4275-A491-B1927B882DC1}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\invoices\\updateinvoice\\updateinvoicecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\invoices\\updateinvoice\\updateinvoicecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\invoices\\createinvoice\\createinvoicecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\invoices\\createinvoice\\createinvoicecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\invoices\\createinvoice\\createinvoicecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,10 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{51532F21-5D9E-49C1-8457-C4E057DDA08D}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.webapi\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51532F21-5D9E-49C1-8457-C4E057DDA08D}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|solutionrelative:erpserver.webapi\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F468A73E-DEC2-4275-A491-B1927B882DC1}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.domain\\entities\\production.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F468A73E-DEC2-4275-A491-B1927B882DC1}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\entities\\production.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5542CA91-19C1-4E3D-B9DD-B110FC3C9C84}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\w10\\desktop\\github\\erpproject\\erpserver\\erpserver.application\\features\\productions\\getallproduction\\getallproductionqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -118,7 +166,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,7 +174,176 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Infrastructure\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Infrastructure\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "ERPServer.Infrastructure\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:13:05.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductionsController.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.WebAPI\\Controllers\\ProductionsController.cs",
+              "RelativeDocumentMoniker": "ERPServer.WebAPI\\Controllers\\ProductionsController.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.WebAPI\\Controllers\\ProductionsController.cs",
+              "RelativeToolTip": "ERPServer.WebAPI\\Controllers\\ProductionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:12:58.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Depot.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Domain\\Entities\\Depot.cs",
+              "RelativeDocumentMoniker": "ERPServer.Domain\\Entities\\Depot.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Domain\\Entities\\Depot.cs",
+              "RelativeToolTip": "ERPServer.Domain\\Entities\\Depot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:12:36.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ERPServer.WebAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ERPServer.WebAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:11:17.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DeleteProductByIdCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Products\\DeleteProductById\\DeleteProductByIdCommandHandler.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Products\\DeleteProductById\\DeleteProductByIdCommandHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Products\\DeleteProductById\\DeleteProductByIdCommandHandler.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Products\\DeleteProductById\\DeleteProductByIdCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:09:07.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateDepotCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\CreateDepot\\CreateDepotCommandHandler.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Depots\\CreateDepot\\CreateDepotCommandHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\CreateDepot\\CreateDepotCommandHandler.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Depots\\CreateDepot\\CreateDepotCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:07:25.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Production.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Domain\\Entities\\Production.cs",
+              "RelativeDocumentMoniker": "ERPServer.Domain\\Entities\\Production.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Domain\\Entities\\Production.cs",
+              "RelativeToolTip": "ERPServer.Domain\\Entities\\Production.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:49:50.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ERPServer.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "ERPServer.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:59:33.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateOrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Orders\\CreateOrder\\CreateOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Orders\\CreateOrder\\CreateOrderCommandHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Orders\\CreateOrder\\CreateOrderCommandHandler.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Orders\\CreateOrder\\CreateOrderCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:07:51.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateDepotCommand.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\CreateDepot\\CreateDepotCommand.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Depots\\CreateDepot\\CreateDepotCommand.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Depots\\CreateDepot\\CreateDepotCommand.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Depots\\CreateDepot\\CreateDepotCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:07:23.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RequirementsPlanningByOrderIdCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Orders\\ReqirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommandHandler.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Orders\\ReqirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommandHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Orders\\ReqirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommandHandler.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Orders\\ReqirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommandHandler.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:07:58.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAllProductQuery.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Products\\GetAllProduct\\GetAllProductQuery.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Products\\GetAllProduct\\GetAllProductQuery.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Products\\GetAllProduct\\GetAllProductQuery.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Products\\GetAllProduct\\GetAllProductQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:58:53.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllProductQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Products\\GetAllProduct\\GetAllProductQueryHandler.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Products\\GetAllProduct\\GetAllProductQueryHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Products\\GetAllProduct\\GetAllProductQueryHandler.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Products\\GetAllProduct\\GetAllProductQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:58:49.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Domain\\Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "ERPServer.Domain\\Entities\\AppUser.cs",
@@ -139,33 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UpdateInvoiceCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommandHandler.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommandHandler.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommandHandler.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T16:52:13.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Infrastructure\\Repositories\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Repositories\\CustomerRepository.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Infrastructure\\Repositories\\CustomerRepository.cs",
-              "RelativeToolTip": "ERPServer.Infrastructure\\Repositories\\CustomerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T16:51:16.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "ERPServer.Application\\DependencyInjection.cs",
@@ -173,25 +364,11 @@
               "RelativeToolTip": "ERPServer.Application\\DependencyInjection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T19:56:24.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T19:56:24.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateInvoiceCommand.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T20:37:10.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "CreateInvoiceCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommandHandler.cs",
               "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommandHandler.cs",
@@ -204,7 +381,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 20,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "ERPServer.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:51:16.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateInvoiceCommand.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:37:10.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateInvoiceCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommandHandler.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommandHandler.cs",
+              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommandHandler.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:52:13.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "UpdateInvoiceCommand.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommand.cs",
               "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommand.cs",
@@ -212,12 +425,11 @@
               "RelativeToolTip": "ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T20:37:21.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T20:37:21.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Infrastructure\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Context\\ApplicationDbContext.cs",
@@ -225,12 +437,11 @@
               "RelativeToolTip": "ERPServer.Infrastructure\\Context\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAiwAcAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T15:54:56.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T15:54:56.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "ERPServer.Infrastructure\\DependencyInjection.cs",
@@ -238,12 +449,11 @@
               "RelativeToolTip": "ERPServer.Infrastructure\\DependencyInjection.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T20:04:33.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T20:04:33.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 24,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ERPServer.WebAPI\\appsettings.json",
@@ -255,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "JwtProvider.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Infrastructure\\Services\\JwtProvider.cs",
               "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Services\\JwtProvider.cs",
@@ -267,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "JwtTokenOptionsSetup.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Infrastructure\\Options\\JwtTokenOptionsSetup.cs",
               "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Options\\JwtTokenOptionsSetup.cs",
@@ -279,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 25,
               "Title": "ProductionConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Infrastructure\\Configurations\\ProductionConfiguration.cs",
               "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Configurations\\ProductionConfiguration.cs",
@@ -291,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 26,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Mapping\\MappingProfile.cs",
               "RelativeDocumentMoniker": "ERPServer.Application\\Mapping\\MappingProfile.cs",
@@ -303,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 27,
               "Title": "InvoicesController.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.WebAPI\\Controllers\\InvoicesController.cs",
               "RelativeDocumentMoniker": "ERPServer.WebAPI\\Controllers\\InvoicesController.cs",
@@ -315,19 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Production.cs",
-              "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Domain\\Entities\\Production.cs",
-              "RelativeDocumentMoniker": "ERPServer.Domain\\Entities\\Production.cs",
-              "ToolTip": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Domain\\Entities\\Production.cs",
-              "RelativeToolTip": "ERPServer.Domain\\Entities\\Production.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T15:49:50.38Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 28,
               "Title": "GetAllProductionQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Productions\\GetAllProduction\\GetAllProductionQueryHandler.cs",
               "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Productions\\GetAllProduction\\GetAllProductionQueryHandler.cs",
@@ -339,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 29,
               "Title": "DeleteProductionByIdCommand.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Productions\\DeleteProductionById\\DeleteProductionByIdCommand.cs",
               "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Productions\\DeleteProductionById\\DeleteProductionByIdCommand.cs",
@@ -351,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 33,
               "Title": "ProductionRepository.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Infrastructure\\Repositories\\ProductionRepository.cs",
               "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Repositories\\ProductionRepository.cs",
@@ -363,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 38,
               "Title": "20240611155647_mg15.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Infrastructure\\Migrations\\20240611155647_mg15.cs",
               "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Migrations\\20240611155647_mg15.cs",
@@ -375,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "GetAllProductionQuery.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Productions\\GetAllProduction\\GetAllProductionQuery.cs",
               "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Productions\\GetAllProduction\\GetAllProductionQuery.cs",
@@ -387,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 34,
               "Title": "20240611155518_mg15.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Infrastructure\\Migrations\\20240611155518_mg15.cs",
               "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Migrations\\20240611155518_mg15.cs",
@@ -398,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 32,
               "Title": "IProductionRepository.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Domain\\Repository\\IProductionRepository.cs",
               "RelativeDocumentMoniker": "ERPServer.Domain\\Repository\\IProductionRepository.cs",
@@ -410,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 31,
               "Title": "StockMovement.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Domain\\Entities\\StockMovement.cs",
               "RelativeDocumentMoniker": "ERPServer.Domain\\Entities\\StockMovement.cs",
@@ -422,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 35,
               "Title": "GetAllInvoiceQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Invoices\\GetAllInvoice\\GetAllInvoiceQueryHandler.cs",
               "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Invoices\\GetAllInvoice\\GetAllInvoiceQueryHandler.cs",
@@ -434,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 36,
               "Title": "GetAllInvoiceQuery.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Application\\Features\\Invoices\\GetAllInvoice\\GetAllInvoiceQuery.cs",
               "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Invoices\\GetAllInvoice\\GetAllInvoiceQuery.cs",
@@ -446,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 37,
               "Title": "InvoiceDetail.cs",
               "DocumentMoniker": "C:\\Users\\W10\\Desktop\\GITHUB\\ERPProject\\ERPServer\\ERPServer.Domain\\Entities\\InvoiceDetail.cs",
               "RelativeDocumentMoniker": "ERPServer.Domain\\Entities\\InvoiceDetail.cs",
